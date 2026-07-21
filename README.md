@@ -2,6 +2,8 @@
 
 A simple Tic Tac Toe game built using HTML, CSS, and JavaScript.
 
+Live link : https://rehannbuilds.github.io/Tic-Tac-Toe/
+
 ## Features
 
 - Two-player gameplay
