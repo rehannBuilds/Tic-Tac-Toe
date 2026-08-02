@@ -7,7 +7,7 @@ Live link : https://rehannbuilds.github.io/Tic-Tac-Toe/
 ## Features
 
 - Two-player gameplay
-- Turn indicator
+- Turn indicatoR
 - Win detection
 - Restart game
 
